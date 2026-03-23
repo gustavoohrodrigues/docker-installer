@@ -71,7 +71,7 @@ cd docker-install
 ### 2. Make scripts executable
 
 ```bash
-chmod +x docker-install.sh docker-install-rhel.sh
+chmod +x docker-install.sh docker-rhel.sh
 ```
 
 ---
@@ -87,7 +87,7 @@ sudo ./docker-install.sh
 #### RHEL / CentOS / Rocky / AlmaLinux
 
 ```bash
-sudo ./docker-install-rhel.sh
+sudo ./docker-rhel.sh
 ```
 
 ---
