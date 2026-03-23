@@ -11,7 +11,7 @@ The goal is to provide a **fast, reliable, and repeatable installation process**
 
 ---
 
-## 👤 Author
+## Author
 
 **Gustavo Henrique Rodrigues**  
 SysAdmin – Engineer  
